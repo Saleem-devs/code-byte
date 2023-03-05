@@ -11,7 +11,7 @@ function Hero() {
               Code, Create, Build - <br /> Anywhere, on any device
             </h1>
             <p className="text-primaryText text-center text-lg">
-              CodeByte lets you{" "}
+              CodeWrite lets you{" "}
               <span className="text-textBlue">
                 unleash your creativity and turn your front-end coding ideas
                 into reality,

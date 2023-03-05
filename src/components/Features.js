@@ -34,7 +34,7 @@ function Features() {
                 />
               }
               title="Write HTML, CSS, JavaScript codes"
-              description="CodeByte provides a code editor that supports HTML, CSS, and JavaScript. You can easily write and test your code all in one place."
+              description="CodeWrite provides a code editor that supports HTML, CSS, and JavaScript. You can easily write and test your code all in one place."
             />
             <FeatureCard
               icon={
@@ -44,7 +44,7 @@ function Features() {
                 />
               }
               title="Code highlighting and auto-complete"
-              description="CodeByte helps you write code faster with highlighting and auto-complete features. You can focus on your code, and let CodeByte take care of the rest."
+              description="CodeWrite helps you write code faster with highlighting and auto-complete features. You can focus on your code, and let CodeByte take care of the rest."
             />
             <FeatureCard
               icon={
@@ -54,7 +54,7 @@ function Features() {
                 />
               }
               title="Save and Manage Projects"
-              description="With CodeByte, you can create and save multiple web projects to your personal dashboard. You can easily edit and delete projects as needed, and even share them with others."
+              description="With CodeWrite, you can create and save multiple web projects to your personal dashboard. You can easily edit and delete projects as needed, and even share them with others."
             />
           </div>
         </div>

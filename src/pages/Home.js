@@ -9,14 +9,12 @@ import Footer from "../components/Footer";
 function Home() {
   return (
     <>
-      <header className="">
-        <Navbar />
-        <Hero />
-        <About />
-        <Features />
-        <Contact />
-        <Footer />
-      </header>
+      <Navbar />
+      <Hero />
+      <About />
+      <Features />
+      <Contact />
+      <Footer />
     </>
   );
 }

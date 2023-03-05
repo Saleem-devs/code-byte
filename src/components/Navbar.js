@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-scroll";
+import Logo from "../assets/images/LOGO.png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars } from "@fortawesome/free-solid-svg-icons";
 
@@ -11,8 +12,8 @@ function Navbar() {
           <div className="flex items-center justify-between">
             {/* Logo  */}
 
-            <div className="text-white font-bold text-2xl">
-              CODE<span className="text-textBlue">BYTE</span>{" "}
+            <div className="w-36 md:w-40">
+              <img src={Logo} alt="Logo" className="w-full" />
             </div>
 
             {/* Nav Links  */}
